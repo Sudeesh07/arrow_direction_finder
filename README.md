@@ -37,4 +37,3 @@
 
 ---
 
-**Note:** Replace this text with your own details as needed.
